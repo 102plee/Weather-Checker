@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Umbrella?</string>
+    <string name="Button1">Check!</string>
+    <string name="Button2">Now what.</string>
+    <string name="Location"></string>
+    <string name="Weather">no</string>
+    <string name="State">Press the button to find out if you \n need an umbrella.</string>
+</resources>
